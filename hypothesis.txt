@@ -1,0 +1,22 @@
+Final Draft:
+A fundamental question in convolutional neural network
+design is how to optimally allocate a fixed parameter
+budget between model depth and width. We believe
+deeper models can capture hierarchical compositional
+features while wider models can encode richer input
+representations. Thus we hypothesize that the optimal
+depth-to-width ratio for various tasks is based around that
+axis. We investigate this hypothesis systematically on
+CIFAR-100, a challenging fine-grained classification
+benchmark with 100 semantic categories. We construct a
+controlled family of CNN architectures that span a range
+of depth-width configurations while holding the total
+parameter count constant, enabling a fair and direct
+comparison across architectural choices. In addition to
+classification accuracy, we analyze training dynamics
+such as loss landscapes, convergence behavior, and
+gradient flow to understand why certain configurations
+succeed or fail. Our main purpose is to provide both
+empirical evidence and mechanistic insight into the depth-
+width trade-off, offering principled guidance for CNN
+architecture design under resource constraints.

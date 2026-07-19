@@ -1,0 +1,182 @@
+{
+  "M1": {
+    "best_val_acc": 67.54,
+    "tier_accuracy": {
+      "Low": 67.52,
+      "Medium": 66.55,
+      "High": 68.56
+    },
+    "superclass_accuracy": {
+      "large outdoor natural": 76.6,
+      "aquatic mammals": 54.0,
+      "fruit & vegetables": 75.6,
+      "flowers": 74.8,
+      "large herbivores/omnivores": 64.4,
+      "insects": 68.4,
+      "medium mammals": 70.0,
+      "vehicles 2": 76.6,
+      "household electrical devices": 69.4,
+      "large carnivores": 71.8,
+      "reptiles": 52.4,
+      "food containers": 65.4,
+      "vehicles 1": 79.0,
+      "household furniture": 67.6,
+      "trees": 69.8,
+      "fish": 64.4,
+      "people": 47.2,
+      "large outdoor man-made": 80.4,
+      "non-insect invertebrates": 65.0,
+      "small mammals": 58.0
+    }
+  },
+  "M2": {
+    "best_val_acc": 72.5,
+    "tier_accuracy": {
+      "Low": 72.05,
+      "Medium": 71.83,
+      "High": 73.63
+    },
+    "superclass_accuracy": {
+      "large outdoor natural": 82.0,
+      "aquatic mammals": 60.4,
+      "fruit & vegetables": 78.8,
+      "flowers": 78.4,
+      "large herbivores/omnivores": 71.8,
+      "insects": 74.4,
+      "medium mammals": 73.6,
+      "vehicles 2": 81.8,
+      "household electrical devices": 73.6,
+      "large carnivores": 73.2,
+      "reptiles": 62.8,
+      "food containers": 72.0,
+      "vehicles 1": 82.4,
+      "household furniture": 77.2,
+      "trees": 72.0,
+      "fish": 69.4,
+      "people": 53.0,
+      "large outdoor man-made": 83.2,
+      "non-insect invertebrates": 68.0,
+      "small mammals": 62.0
+    }
+  },
+  "M3": {
+    "best_val_acc": 74.01,
+    "tier_accuracy": {
+      "Low": 73.31,
+      "Medium": 73.18,
+      "High": 75.55
+    },
+    "superclass_accuracy": {
+      "large outdoor natural": 79.6,
+      "aquatic mammals": 63.8,
+      "fruit & vegetables": 79.6,
+      "flowers": 78.8,
+      "large herbivores/omnivores": 74.6,
+      "insects": 75.2,
+      "medium mammals": 76.6,
+      "vehicles 2": 84.4,
+      "household electrical devices": 76.6,
+      "large carnivores": 76.4,
+      "reptiles": 64.4,
+      "food containers": 72.6,
+      "vehicles 1": 83.2,
+      "household furniture": 76.4,
+      "trees": 71.2,
+      "fish": 70.2,
+      "people": 55.8,
+      "large outdoor man-made": 86.0,
+      "non-insect invertebrates": 71.6,
+      "small mammals": 63.2
+    }
+  },
+  "M4": {
+    "best_val_acc": 73.69,
+    "tier_accuracy": {
+      "Low": 73.31,
+      "Medium": 72.76,
+      "High": 75.01
+    },
+    "superclass_accuracy": {
+      "large outdoor natural": 80.0,
+      "aquatic mammals": 61.8,
+      "fruit & vegetables": 82.0,
+      "flowers": 80.0,
+      "large herbivores/omnivores": 75.0,
+      "insects": 73.6,
+      "medium mammals": 74.4,
+      "vehicles 2": 85.8,
+      "household electrical devices": 76.6,
+      "large carnivores": 78.0,
+      "reptiles": 65.0,
+      "food containers": 72.2,
+      "vehicles 1": 82.2,
+      "household furniture": 76.6,
+      "trees": 70.4,
+      "fish": 72.2,
+      "people": 53.6,
+      "large outdoor man-made": 83.4,
+      "non-insect invertebrates": 69.2,
+      "small mammals": 61.8
+    }
+  },
+  "M5": {
+    "best_val_acc": 73.54,
+    "tier_accuracy": {
+      "Low": 73.64,
+      "Medium": 72.58,
+      "High": 74.41
+    },
+    "superclass_accuracy": {
+      "large outdoor natural": 81.0,
+      "aquatic mammals": 60.4,
+      "fruit & vegetables": 79.8,
+      "flowers": 80.6,
+      "large herbivores/omnivores": 74.6,
+      "insects": 74.8,
+      "medium mammals": 73.4,
+      "vehicles 2": 83.2,
+      "household electrical devices": 76.8,
+      "large carnivores": 73.4,
+      "reptiles": 66.0,
+      "food containers": 71.2,
+      "vehicles 1": 85.2,
+      "household furniture": 78.6,
+      "trees": 69.4,
+      "fish": 70.4,
+      "people": 56.6,
+      "large outdoor man-made": 83.8,
+      "non-insect invertebrates": 69.8,
+      "small mammals": 61.8
+    }
+  },
+  "M6": {
+    "best_val_acc": 71.51,
+    "tier_accuracy": {
+      "Low": 71.57,
+      "Medium": 70.18,
+      "High": 72.79
+    },
+    "superclass_accuracy": {
+      "large outdoor natural": 77.6,
+      "aquatic mammals": 60.2,
+      "fruit & vegetables": 78.2,
+      "flowers": 75.8,
+      "large herbivores/omnivores": 72.8,
+      "insects": 71.8,
+      "medium mammals": 71.2,
+      "vehicles 2": 80.2,
+      "household electrical devices": 77.0,
+      "large carnivores": 75.2,
+      "reptiles": 63.2,
+      "food containers": 71.2,
+      "vehicles 1": 81.2,
+      "household furniture": 75.8,
+      "trees": 67.8,
+      "fish": 68.4,
+      "people": 56.2,
+      "large outdoor man-made": 83.2,
+      "non-insect invertebrates": 64.8,
+      "small mammals": 58.4
+    }
+  }
+}
